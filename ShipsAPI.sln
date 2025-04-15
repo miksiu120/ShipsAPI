@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipsAPI", "ShipsAPI\ShipsAPI.csproj", "{5ECE19F4-1823-4A76-A643-A31075BC33FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipsAPI.Tests", "ShipsAPI.Test\ShipsAPI.Tests.csproj", "{66035405-100B-4565-B591-5DB217E6395B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECE19F4-1823-4A76-A643-A31075BC33FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECE19F4-1823-4A76-A643-A31075BC33FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECE19F4-1823-4A76-A643-A31075BC33FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECE19F4-1823-4A76-A643-A31075BC33FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66035405-100B-4565-B591-5DB217E6395B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66035405-100B-4565-B591-5DB217E6395B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66035405-100B-4565-B591-5DB217E6395B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66035405-100B-4565-B591-5DB217E6395B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

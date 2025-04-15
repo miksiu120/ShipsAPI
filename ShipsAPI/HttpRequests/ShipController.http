@@ -1,0 +1,61 @@
+@ShipsAPI_HostAddress = https://localhost:7256/api/ship
+
+### POST - Tanker Ship
+POST {{ShipsAPI_HostAddress}}
+Content-Type: application/json
+Accept: application/json
+
+{
+  "shipType": "Tanker",
+  "imo": "1234567",
+  "name": "Pilsudski",
+  "width": 213.23,
+  "length": 600.13,
+  "tanks": [
+    {
+      "id": 0,
+      "capacityInLitres": 10000,
+      "fuelType": "Diesel",
+      "currentAmountInLitres": 2000
+    }
+  ]
+}
+
+###
+
+### POST - Passenger Ship
+POST {{ShipsAPI_HostAddress}}
+Content-Type: application/json
+Accept: application/json
+
+{
+  "shipType": "Passenger",
+  "imo": "9074729",
+  "name": "Delfinek",
+  "width": 213.23,
+  "length": 600.13,
+  "passengers": [
+    {
+      "name": "Jan",
+      "surname": "Kowalski"
+    },
+    {
+      "name": "Pawel",
+      "surname": "Kowalski"
+    },
+    {
+      "name": "Adam",
+      "surname": "Kowalski"
+    },
+    {
+      "name": "Graba",
+      "surname": "Kowalski"
+    }
+  ]
+}
+
+###
+
+### GET - All Ships
+GET {{ShipsAPI_HostAddress}}
+Accept: application/json

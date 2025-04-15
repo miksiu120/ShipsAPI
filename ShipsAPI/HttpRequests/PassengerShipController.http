@@ -1,0 +1,57 @@
+@ShipsAPI_HostAddress = https://localhost:7256/api/ship/9074729/passenger
+
+### POST - Add  passenger
+POST {{ShipsAPI_HostAddress}}
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Jan",
+  "surname": "Kowalski"
+}
+
+###
+
+### POST - Add many passengers
+POST {{ShipsAPI_HostAddress}}/many
+Content-Type: application/json
+Accept: application/json
+[
+  {
+    "name": "Jan",
+    "surname": "Pawel"
+  },
+  {
+    "name": "Monika",
+    "surname": "Bejza"
+  }
+]
+
+###
+
+### GET - get passenger with id = 2
+GET {{ShipsAPI_HostAddress}}/2
+Accept: application/json
+
+###
+
+### DELETE - delete passenger with ID = 0
+DELETE {{ShipsAPI_HostAddress}}/0
+Accept: application/json
+
+###
+
+### PATCH - update passenger with ID = 2
+PATCH {{ShipsAPI_HostAddress}}/2
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Jan",
+  "surname": "Kowalski"
+}
+
+###
+
+GET {{ShipsAPI_HostAddress}}
+Content-Type: application/json

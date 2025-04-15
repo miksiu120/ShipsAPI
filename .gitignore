@@ -1,0 +1,72 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Rider
+.idea/
+
+## Visual Studio Code
+.vscode/
+
+## Mac OS
+.DS_Store
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## DotCover
+.idea/
+*.dotCover
+
+## Logs
+*.log
+
+## Temporary files
+*.tmp
+*.bak
+*.swp
+*.sln.ide
+
+## ASP.NET
+wwwroot/lib/
+
+## Entity Framework Migrations snapshot
+*Migrations/*.Designer.cs
+*Migrations/*Snapshot.cs
+
+## Test Results
+TestResults/
+*.TestResult.xml
+*.trx
+
+## Publish
+publish/
+out/
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Global JSON
+global.json
+
+## JetBrains Rider caches
+.idea/
