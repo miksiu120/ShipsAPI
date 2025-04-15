@@ -115,7 +115,7 @@ namespace ShipsAPI.Tests
         public void FuelUpTank_EmptyTank_FuelAmountEqualZero(int tankId)
         {
             // act
-            tankerShipService.EmptyTheTank(CORRECT_IMO, tankId);
+            tankerShipService.EmptyTank(CORRECT_IMO, tankId);
 
             // assert
             var amountAfter = ((TankerShip)shipService.GetShipByIMO(CORRECT_IMO)).Tanks[tankId].CurrentAmountInLitres;

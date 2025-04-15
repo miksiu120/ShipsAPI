@@ -34,12 +34,7 @@ namespace ShipsAPI.Controllers
         public IActionResult AddNewShip(NewShipDtoBase ship)
         {
             var addedShip = _shipService.AddNewShip(ship);
-            return Ok(
-                new
-                {
-                    Message = "Ship added to registry",
-                    Ship = addedShip
-                } );
+            return Ok(addedShip);
         }
 
     }

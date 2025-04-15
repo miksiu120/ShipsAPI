@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi.test\\passengershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|solutionrelative:shipsapi.test\\passengershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi.test\\tankershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|solutionrelative:shipsapi.test\\tankershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\tanks\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\tanks\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\tanks\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\tanks\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\tanks\\fuelupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\tanks\\fuelupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\services\\ships\\shipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\services\\ships\\shipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\newshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\newshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\repositories\\shiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\repositories\\shiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\httprequests\\tankershipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\httprequests\\tankershipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\httprequests\\passengershipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\httprequests\\passengershipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\httprequests\\shipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\httprequests\\shipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\ships\\passengership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\ships\\passengership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\services\\ships\\passengershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\services\\ships\\passengershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi.test\\tankershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|solutionrelative:shipsapi.test\\tankershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi.test\\passengershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|solutionrelative:shipsapi.test\\passengershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\ships\\tankership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,44 +75,12 @@
       "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\services\\ships\\tankershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\tanks\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\tanks\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\tanks\\fuelupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\tanks\\fuelupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\tanks\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\tanks\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\middleware\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\middleware\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\httprequests\\passengershipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\httprequests\\passengershipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\httprequests\\shipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\httprequests\\shipcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -73,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi.test\\shipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66035405-100B-4565-B591-5DB217E6395B}|ShipsAPI.Test\\ShipsAPI.Tests.csproj|solutionrelative:shipsapi.test\\shipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\ships\\passengership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\ships\\passengership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\ships\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,14 +111,6 @@
       "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\factories\\shipfactories\\factoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\services\\ships\\shipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\services\\ships\\shipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\repositories\\shiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\repositories\\shiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\services\\imoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\services\\imoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -113,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\ships\\shiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\ships\\shiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\newshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|solutionrelative:shipsapi\\models\\newshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ECE19F4-1823-4A76-A643-A31075BC33FD}|ShipsAPI\\ShipsAPI.csproj|c:\\users\\micha\u0142\\desktop\\studia\\navtor\\shipsapi\\shipsapi\\models\\passengers\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,11 +142,255 @@
       "DocumentGroups": [
         {
           "DockedWidth": 292,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelType.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Tanks\\FuelType.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelType.cs",
+              "RelativeToolTip": "ShipsAPI\\Models\\Tanks\\FuelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:10:41.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\Exceptions.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Middleware\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\Exceptions.cs",
+              "RelativeToolTip": "ShipsAPI\\Middleware\\Exceptions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:44:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShipService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\ShipService.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Services\\Ships\\ShipService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\ShipService.cs",
+              "RelativeToolTip": "ShipsAPI\\Services\\Ships\\ShipService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIAwwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:03:16.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewShipDto.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\NewShipDto.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Models\\NewShipDto.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\NewShipDto.cs",
+              "RelativeToolTip": "ShipsAPI\\Models\\NewShipDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:27:28.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\Tank.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Tanks\\Tank.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\Tank.cs",
+              "RelativeToolTip": "ShipsAPI\\Models\\Tanks\\Tank.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:13:39.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PassengerShipController.http",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\PassengerShipController.http",
+              "RelativeDocumentMoniker": "ShipsAPI\\HttpRequests\\PassengerShipController.http",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\PassengerShipController.http",
+              "RelativeToolTip": "ShipsAPI\\HttpRequests\\PassengerShipController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-15T12:14:48.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Controllers\\PassengerController.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "ShipsAPI\\Controllers\\PassengerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:35:38.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "TanksController.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\TanksController.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Controllers\\TanksController.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\TanksController.cs",
+              "RelativeToolTip": "ShipsAPI\\Controllers\\TanksController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:31:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuelUpDto.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
+              "RelativeToolTip": "ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:51:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TankerShipServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\TankerShipServiceTests.cs",
+              "RelativeDocumentMoniker": "ShipsAPI.Test\\TankerShipServiceTests.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\TankerShipServiceTests.cs",
+              "RelativeToolTip": "ShipsAPI.Test\\TankerShipServiceTests.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:53:58.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShipController.http",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\ShipController.http",
+              "RelativeDocumentMoniker": "ShipsAPI\\HttpRequests\\ShipController.http",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\ShipController.http",
+              "RelativeToolTip": "ShipsAPI\\HttpRequests\\ShipController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-15T22:31:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PassengerShipServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\PassengerShipServiceTests.cs",
+              "RelativeDocumentMoniker": "ShipsAPI.Test\\PassengerShipServiceTests.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\PassengerShipServiceTests.cs",
+              "RelativeToolTip": "ShipsAPI.Test\\PassengerShipServiceTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:39:40.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipController.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\ShipController.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Controllers\\ShipController.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\ShipController.cs",
+              "RelativeToolTip": "ShipsAPI\\Controllers\\ShipController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:49:19.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PassengerShipService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
+              "RelativeToolTip": "ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:41:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Repositories\\ShipRepository.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Repositories\\ShipRepository.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Repositories\\ShipRepository.cs",
+              "RelativeToolTip": "ShipsAPI\\Repositories\\ShipRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA5wCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:20:10.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TankerShipController.http",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\TankerShipController.http",
+              "RelativeDocumentMoniker": "ShipsAPI\\HttpRequests\\TankerShipController.http",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\TankerShipController.http",
+              "RelativeToolTip": "ShipsAPI\\HttpRequests\\TankerShipController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-15T22:30:21.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:58:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PassengerShip.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\PassengerShip.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Ships\\PassengerShip.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\PassengerShip.cs",
+              "RelativeToolTip": "ShipsAPI\\Models\\Ships\\PassengerShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:50:31.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TankerShip.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\TankerShip.cs",
+              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Ships\\TankerShip.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\TankerShip.cs",
+              "RelativeToolTip": "ShipsAPI\\Models\\Ships\\TankerShip.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:03:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "TankerShipService.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\TankerShipService.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Services\\Ships\\TankerShipService.cs",
@@ -155,180 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TankerShip.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\TankerShip.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Ships\\TankerShip.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\TankerShip.cs",
-              "RelativeToolTip": "ShipsAPI\\Models\\Ships\\TankerShip.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAASwBQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:03:36.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FuelType.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelType.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Tanks\\FuelType.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelType.cs",
-              "RelativeToolTip": "ShipsAPI\\Models\\Tanks\\FuelType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:10:41.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PassengerController.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\PassengerController.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Controllers\\PassengerController.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\PassengerController.cs",
-              "RelativeToolTip": "ShipsAPI\\Controllers\\PassengerController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:35:38.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TankerShipServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\TankerShipServiceTests.cs",
-              "RelativeDocumentMoniker": "ShipsAPI.Test\\TankerShipServiceTests.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\TankerShipServiceTests.cs",
-              "RelativeToolTip": "ShipsAPI.Test\\TankerShipServiceTests.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAwwF4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T14:53:58.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PassengerShipServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\PassengerShipServiceTests.cs",
-              "RelativeDocumentMoniker": "ShipsAPI.Test\\PassengerShipServiceTests.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\PassengerShipServiceTests.cs",
-              "RelativeToolTip": "ShipsAPI.Test\\PassengerShipServiceTests.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAcwD4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:39:40.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeToolTip": "ShipsAPI\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:58:13.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Exceptions.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\Exceptions.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Middleware\\Exceptions.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Middleware\\Exceptions.cs",
-              "RelativeToolTip": "ShipsAPI\\Middleware\\Exceptions.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T09:44:08.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PassengerShipService.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
-              "RelativeToolTip": "ShipsAPI\\Services\\Ships\\PassengerShipService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIA9wB0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:41:16.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TanksController.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\TanksController.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Controllers\\TanksController.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\TanksController.cs",
-              "RelativeToolTip": "ShipsAPI\\Controllers\\TanksController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T19:26:28.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Tank.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\Tank.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Tanks\\Tank.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\Tank.cs",
-              "RelativeToolTip": "ShipsAPI\\Models\\Tanks\\Tank.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T09:13:39.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShipController.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\ShipController.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Controllers\\ShipController.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Controllers\\ShipController.cs",
-              "RelativeToolTip": "ShipsAPI\\Controllers\\ShipController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:49:19.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FuelUpDto.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
-              "RelativeToolTip": "ShipsAPI\\Models\\Tanks\\FuelUpDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:51:22.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PassengerShipController.http",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\PassengerShipController.http",
-              "RelativeDocumentMoniker": "ShipsAPI\\HttpRequests\\PassengerShipController.http",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\PassengerShipController.http",
-              "RelativeToolTip": "ShipsAPI\\HttpRequests\\PassengerShipController.http",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-15T12:14:48.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ShipServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI.Test\\ShipServiceTests.cs",
               "RelativeDocumentMoniker": "ShipsAPI.Test\\ShipServiceTests.cs",
@@ -340,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ShipsAPI\\appsettings.json",
@@ -352,19 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ShipController.http",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\ShipController.http",
-              "RelativeDocumentMoniker": "ShipsAPI\\HttpRequests\\ShipController.http",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\HttpRequests\\ShipController.http",
-              "RelativeToolTip": "ShipsAPI\\HttpRequests\\ShipController.http",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-15T12:30:24.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Program.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Program.cs",
@@ -376,19 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PassengerShip.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\PassengerShip.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Models\\Ships\\PassengerShip.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\PassengerShip.cs",
-              "RelativeToolTip": "ShipsAPI\\Models\\Ships\\PassengerShip.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwEMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T10:50:31.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Ship.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\Ship.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Models\\Ships\\Ship.cs",
@@ -400,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "FactoryProvider.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Factories\\ShipFactories\\FactoryProvider.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Factories\\ShipFactories\\FactoryProvider.cs",
@@ -412,19 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ShipService.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\ShipService.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Services\\Ships\\ShipService.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\Ships\\ShipService.cs",
-              "RelativeToolTip": "ShipsAPI\\Services\\Ships\\ShipService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwDwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:03:16.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "PassengerShipFactory.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Factories\\ShipFactories\\PassengerShipFactory.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Factories\\ShipFactories\\PassengerShipFactory.cs",
@@ -436,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "TankerShipFactory.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Factories\\ShipFactories\\TankerShipFactory.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Factories\\ShipFactories\\TankerShipFactory.cs",
@@ -448,19 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ShipRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Repositories\\ShipRepository.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Repositories\\ShipRepository.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Repositories\\ShipRepository.cs",
-              "RelativeToolTip": "ShipsAPI\\Repositories\\ShipRepository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:20:10.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IMOService.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Services\\IMOService.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Services\\IMOService.cs",
@@ -472,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ShipFactory.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Factories\\ShipFactories\\ShipFactory.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Factories\\ShipFactories\\ShipFactory.cs",
@@ -484,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ShipType.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Ships\\ShipType.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Models\\Ships\\ShipType.cs",
@@ -496,19 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "NewShipDto.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\NewShipDto.cs",
-              "RelativeDocumentMoniker": "ShipsAPI\\Models\\NewShipDto.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\NewShipDto.cs",
-              "RelativeToolTip": "ShipsAPI\\Models\\NewShipDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:27:28.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "PassengerDto.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Passengers\\PassengerDto.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Models\\Passengers\\PassengerDto.cs",
@@ -520,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Passenger.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\ShipsAPI\\Models\\Passengers\\Passenger.cs",
               "RelativeDocumentMoniker": "ShipsAPI\\Models\\Passengers\\Passenger.cs",
@@ -532,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Desktop\\studia\\navtor\\ShipsAPI\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",

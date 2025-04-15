@@ -9,7 +9,7 @@ namespace ShipsAPI.Services.Ships
     public interface ITankerShipService
     {
         void FuelUpTank(string imo, int tankId, FuelUpDto fuelUpDto);
-        void EmptyTheTank(string imo, int tankId);
+        void EmptyTank(string imo, int tankId);
     }
 
     public class TankerShipService: ITankerShipService
@@ -44,7 +44,7 @@ namespace ShipsAPI.Services.Ships
             existingShip.fuelUpTanker(tankId,fuelUpDto);                   
         }
 
-        public void EmptyTheTank(string imo, int tankId)
+        public void EmptyTank(string imo, int tankId)
         {
             var existingShip = _shipRepository.GetShipByIMO(imo) as TankerShip;
 

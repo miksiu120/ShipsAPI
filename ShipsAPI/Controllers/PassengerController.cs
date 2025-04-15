@@ -45,7 +45,10 @@ namespace ShipsAPI.Controllers
         public IActionResult DeletePassenger([FromRoute] string imo, [FromRoute] int passengerId)
         {
             _passengerService.DeletePassenger(imo, passengerId);
-            return Ok();
+            return Ok(new
+            {
+                Message = $"Passenger with ${passengerId} deleted from the ship with IMO:{imo}"
+            });
         }
 
         [HttpPatch("{passengerId}")]
@@ -53,7 +56,10 @@ namespace ShipsAPI.Controllers
             ([FromRoute] string imo, [FromRoute] int passengerId, [FromBody] PassengerDto passengerDto)
         {
             _passengerService.UpdatePassenger(imo, passengerId, passengerDto);
-            return Ok();
+            return Ok(new
+            {
+                Message = $"Passenger with {passengerId} updated on the ship with IMO:{imo}"
+            });
         }
 
         [HttpGet("{passengerId}")]

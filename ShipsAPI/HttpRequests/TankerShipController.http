@@ -1,0 +1,13 @@
+@ShipsAPI_HostAddress = https://localhost:7256/api/ship/1234567/tank
+
+### Fuel Up Tank
+PATCH {{ShipsAPI_HostAddress}}/0
+Content-Type: application/json
+
+{
+    "AmountToFuelUpInLitres": 1000,
+    "FuelType": "Diesel"
+}
+
+### Empty Tank
+PATCH {{ShipsAPI_HostAddress}}/

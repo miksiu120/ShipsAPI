@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ShipsAPI.Models.Passengers;
 using ShipsAPI.Models.Tanks;
 using ShipsAPI.Services.Ships;
 
@@ -21,14 +22,20 @@ namespace ShipsAPI.Controllers
         {
             _tankerShipService.FuelUpTank(imo,tankId ,fuelUpDto);
 
-            return Ok();
+            return Ok(new
+            {
+                Message = $"Ship with imo:{imo} fueld up a tank with id:{tankId}"
+            });
         }
 
         [HttpPatch("{tankId}/empty")]
         public IActionResult EmptyTank([FromRoute] string imo,[FromRoute] int tankId)
         {
-            _tankerShipService.EmptyTheTank(imo, tankId);
-            return Ok();
+            _tankerShipService.EmptyTank(imo, tankId);
+            return Ok(new
+            {
+                Message = $"Ship with imo:{imo} empited tank with id:{tankId}"
+            });
         }
     }
 }

@@ -58,6 +58,8 @@ namespace ShipsAPI.Services.Ships
                 throw new ShipNotFoundException($"Ship with IMO {imo} does not exist or is not a passenger ship");
             }
 
+
+
             return ship.AddNewPassenger(passengerDto); ;
         }
 

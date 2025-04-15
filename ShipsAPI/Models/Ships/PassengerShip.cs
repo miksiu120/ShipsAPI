@@ -26,7 +26,7 @@ namespace ShipsAPI.Models.Ships
         {
             var newPassengers = new List<Passenger>();
 
-            foreach(var passenger in passengersToAdd)
+            foreach (var passenger in passengersToAdd)
             {
                 var newPassenger = new Passenger
                 {
@@ -37,9 +37,9 @@ namespace ShipsAPI.Models.Ships
 
                 newPassengers.Add(newPassenger);
             }
-
             Passengers.AddRange(newPassengers);
-            return Passengers;
+
+            return newPassengers;
         }
 
 
